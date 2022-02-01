@@ -93,3 +93,4 @@ fun copyStreamToFile(inputStream: InputStream, outputStream: FileOutputStream) {
         }
     }
 }
+https://stackoverflow.com/questions/15352496/how-to-add-image-in-a-textview-text
